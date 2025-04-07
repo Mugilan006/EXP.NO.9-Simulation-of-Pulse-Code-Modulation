@@ -60,7 +60,7 @@ plt.tight_layout()
 plt.show()
 
 # OUTPUT
-![image](https://github.com/user-attachments/assets/2847e1e6-0067-45cc-840d-b52b67d5e7c0)
+![download](https://github.com/user-attachments/assets/d2945ebc-3d1c-46b6-bb30-bb267fa07102)
 
  
 # RESULT / CONCLUSIONS
